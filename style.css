@@ -294,8 +294,8 @@ footer {
 
     .websites {
         border-image-slice: 50;
-        flex-direction: column;
-        gap: 50px;
+        flex-wrap: wrap;
+        gap: 15px;
     }
 
     .popular {
